@@ -46,9 +46,9 @@ let human: { firstName: string, lastName: string, rollNumber: number } = {
 }
 
 
-let person:{firstname:string,rollNumber:number}
+let person: { firstname: string, rollNumber: number }
 
-person={
-    firstname:"mayuri",
-    rollNumber:23
+person = {
+    firstname: "mayuri",
+    rollNumber: 23
 }
